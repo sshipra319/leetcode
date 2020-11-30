@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 13 14:54:27 2020
-
 @author: Shipra
 """
 
