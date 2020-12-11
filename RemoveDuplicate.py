@@ -1,3 +1,4 @@
+
 class Solution:
     def deleteDuplicates(self, head):
         if head == None:
